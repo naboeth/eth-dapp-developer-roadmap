@@ -1,6 +1,6 @@
-<mxfile modified="2022-07-01T16:42:53.636Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="GuigzMcHWd4cacWTc6dE" version="18.1.2" type="github">
+<mxfile modified="2022-07-01T19:07:02.825Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="bUU8jUEuOsFIwPoX_75p" version="18.1.2" type="github">
   <diagram id="Nujw8QULHTO2o_88y2bf" name="Page-1">
-    <mxGraphModel dx="729" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,15 +186,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49" value="Ethereum code Life Cycle" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="590" y="260" width="150" height="22" as="geometry" />
+          <mxGeometry x="593.25" y="290" width="150" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="50" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0;exitY=0.5;entryX=1;entryY=0.5;endFill=0;" parent="1" source="49" target="20" edge="1">
+        <mxCell id="50" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0;exitY=0.5;entryX=1;entryY=0.75;endFill=0;entryDx=0;entryDy=0;" parent="1" source="49" target="20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="140" as="sourcePoint" />
-            <mxPoint x="423.5" y="200" as="targetPoint" />
+            <mxPoint x="403.25" y="170" as="sourcePoint" />
+            <mxPoint x="481.75" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="272" />
-              <mxPoint x="520" y="240" />
+              <mxPoint x="563.25" y="302" />
+              <mxPoint x="523.25" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -222,9 +222,6 @@
         </mxCell>
         <mxCell id="15a4b3893f7299b4-56" value="Web Development Concepts" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="30" y="410" width="260" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="15a4b3893f7299b4-57" value="Basic Mathematics" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="30" y="425" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-59" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.25;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="51" target="15a4b3893f7299b4-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -259,15 +256,6 @@
             <mxPoint x="297" y="397.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="15a4b3893f7299b4-63" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.75;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="51" target="15a4b3893f7299b4-57" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433.5" y="425" as="sourcePoint" />
-            <mxPoint x="330" y="397.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="330" y="395" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -915,8 +903,8 @@
         <mxCell id="U3uUhC1khaGr0jvNcX_p-238" value="naboeth" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="40" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w29Y1sv6F3iYNRJBXach-96" value="Ethereum clients/Nodes e.g Geth, Besu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="540.5" y="236.5" width="260" height="15" as="geometry" />
+        <mxCell id="w29Y1sv6F3iYNRJBXach-96" value="Learn about Blockexplorers, e.g. etherscan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="540" y="238.5" width="260" height="15" as="geometry" />
         </mxCell>
         <mxCell id="w29Y1sv6F3iYNRJBXach-97" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;endFill=0;dashed=1;entryDx=0;entryDy=0;exitX=0.992;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="18" target="w29Y1sv6F3iYNRJBXach-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1004,8 +992,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T9ryzbtzawvm-Bn6OOkV-109" value="web3.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="T9ryzbtzawvm-Bn6OOkV-109" value="web3.js/web3.py" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="350" y="809" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ryzbtzawvm-Bn6OOkV-111" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487.46000000000004" y="244.76" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ryzbtzawvm-Bn6OOkV-113" value="Ethereum clients/Nodes e.g Geth, Besu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="539.25" y="252.5" width="260" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
