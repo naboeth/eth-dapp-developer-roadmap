@@ -52,14 +52,15 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [Remix IDE](https://remix.ethereum.org/)
         * [Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
         * [Ethfiddle](https://ethfiddle.com/)
-    * [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
+    * [Solidity](https://docs.soliditylang.org/en/latest/)
     * [Vyper](https://github.com/ethereum/vyper)
 5. Frameworks
-    1. Truffle Suit (Recommended)
+    1. Truffle Suit
         * [Truffle](https://truffleframework.com/truffle)
         * [Ganache](https://truffleframework.com/ganache)
         * [Drizzle](https://truffleframework.com/drizzle)
-        * [Tutorials](https://truffleframework.com/tutorials)
+        * [Tutorials](https://trufflesuite.com/tutorial/)
+        * [Boxes](https://trufflesuite.com/boxes/)
         * [Truffle Under the Hood](https://medium.com/heartbankacademy/how-truffle-works-under-the-hood-f1ff6add416c)
     2. Hardhat
         * [Hardhat](https://hardhat.org/)
@@ -105,7 +106,8 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ### Courses
    1. [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-   2. [ConsenSys Blockchain Developer Online Bootcamp](https://consensys.net/academy/bootcamp/)
+   2. [The Phoenix Guild](https://twitter.com/PhoenixGuildHQ)
+   3. [ConsenSys Blockchain Developer Online Bootcamp](https://consensys.net/academy/bootcamp/)
         * [The Bigger Pie Getting Started Workshop](https://github.com/The-Bigger-Pie/getting-started-workshop)
 
 ### Youtube/Medium Channels & Webpages
