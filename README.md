@@ -24,10 +24,10 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     2. Ethereum
         * Learn the basics of Ethereum
         * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) 
-        * Ethereum Virtual Machine (EVM)-- turing complete
+        * [Ethereum Virtual Machine (EVM)](https://ethereum.org/en/developers/docs/evm/)
         * Learn about Wallets, Accounts (EOA), Private/Public Keys, Digital Signatures
         * Learn about transactions, Gas, Metamask
-        * Ethereum clients/Nodes: Geth, Besu
+        * Ethereum clients/Nodes: Geth, Besu...
         * Infura infrastructure
     3. Smart Contract
         * Basics of Smart Contract
@@ -114,6 +114,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
    1. [MammothInteractive](https://www.youtube.com/c/MammothInteractive)
    2. [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
    3. [End to End Tutorial Online Marketplace](https://www.ahmetkucukoglu.com/en/developing-blockchain-app-1-create-smart-contract/)
+   4. [Solidity by Example](https://solidity-by-example.org/)
 
 ## Wrap Up
 
